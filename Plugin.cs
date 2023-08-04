@@ -10,7 +10,8 @@ namespace QuestMusicRemover
     {
         void Awake()
         {
-            Logger.LogInfo("QuestMusicRemover");
+            Logger.LogInfo("Loaded version 1.0.0");
+            new GUISoundsPatch.PatcherClass().Enable();
         }    
     }
 }
