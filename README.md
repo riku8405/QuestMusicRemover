@@ -1,4 +1,5 @@
-# QuestMusicRemover 
+# QuestMusicRemover
+## A mod for [SPT-AKI](https://www.sp-tarkov.com/) versions 3.6.0 and onwards that removes the music from quests (completion music, fail music, etc) 
 ## Contribution - Cloning
 ### Option A. Clone using HTTPS
 #### Clone the repository using the URL `https://github.com/riku8405/QuestMusicRemover.git`
