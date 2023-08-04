@@ -16,6 +16,7 @@
 | BepInEx.dll | BepInEx/Core/BepInEx.dll |
 | Comfort.dll | EscapeFromTarkov_Data/Managed/Comfort.dll |
 | UnityEngine.dll | EscapeFromTarkov_Data/Managed/UnityEngine.dll |
+| UnityEngine.AudioModule.dll | EscapeFromTarkov_Data/Managed/UnityEngine.AudioModule.dll |
 | UnityEngine.CoreModule.dll | EscapeFromTarkov_Data/Managed/UnityEngine.CoreModule.dll |
 
 ## Contribution - Building
