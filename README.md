@@ -1,4 +1,5 @@
-# QuestMusicRemover 
+# QuestMusicRemover
+## A mod for [SPT-AKI](https://www.sp-tarkov.com/) version 3.6.0 that removes the music from quests (completion music, fail music, etc) 
 ## Contribution - Cloning
 ### Option A. Clone using HTTPS
 #### Clone the repository using the URL `https://github.com/riku8405/QuestMusicRemover.git`
@@ -16,6 +17,7 @@
 | BepInEx.dll | BepInEx/Core/BepInEx.dll |
 | Comfort.dll | EscapeFromTarkov_Data/Managed/Comfort.dll |
 | UnityEngine.dll | EscapeFromTarkov_Data/Managed/UnityEngine.dll |
+| UnityEngine.AudioModule.dll | EscapeFromTarkov_Data/Managed/UnityEngine.AudioModule.dll |
 | UnityEngine.CoreModule.dll | EscapeFromTarkov_Data/Managed/UnityEngine.CoreModule.dll |
 
 ## Contribution - Building
